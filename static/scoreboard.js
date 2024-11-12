@@ -1,3 +1,6 @@
+// Name: Colin Julius Emmanuel
+// UNI: cje2135
+
 function display_scoreboard(scoreboard){
   if (!scoreboard || scoreboard.length === 0) {
     console.log("No data to display in scoreboard.");
